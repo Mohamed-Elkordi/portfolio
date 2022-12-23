@@ -465,7 +465,7 @@ footer {
 /* End Footer */
 @media (max-width: 918px) {
     header {
-        padding: 10px;
+        padding: 10vw;
     }
     header .navigation {
         display: none;
