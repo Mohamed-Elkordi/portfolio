@@ -128,6 +128,11 @@ header .navigation li:hover {
     background-position: center;
     background-attachment: fixed;
 }
+@media (max-width: 380px) {
+    .main {
+     background-size: 100%;
+     }
+}
 .main div p span {
     color: #F3B642;
 }
@@ -466,7 +471,7 @@ footer {
 /* End Footer */
 @media (max-width: 918px) {
     header {
-        padding: 10vw;
+        padding: 10px 40px 10px 20px;
     }
     header .navigation {
         display: none;
