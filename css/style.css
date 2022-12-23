@@ -449,6 +449,7 @@ header .navigation li:hover {
     }
     .contact .content .contact-mail {
         margin-top: 40px;
+        font-size: 1em;
     }
 }
 /* End Contact */
