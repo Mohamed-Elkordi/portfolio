@@ -132,6 +132,8 @@ header .navigation li:hover {
     .main {
      background-size: 100% 100%;
      }
+    .contact .content .contact-mail {
+        font-size: 20px;
 }
 .main div p span {
     color: #F3B642;
@@ -451,6 +453,9 @@ header .navigation li:hover {
         height: 2px;
         left: 0;
         top: calc(100% + 20px);
+    }
+    .contact textarea {
+        max-width: 100%;
     }
     .contact .content .contact-mail {
         margin-top: 40px;
