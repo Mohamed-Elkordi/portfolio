@@ -132,9 +132,12 @@ header .navigation li:hover {
     .main {
      background-size: 100% 100%;
      }
-    .contact .content .contact-mail {
+    .contact .content .contact-mail p,
+    .contact .content .contact-mail span
+     {
+        text-align: center;
         font-size: 20px;
-}
+     }
 .main div p span {
     color: #F3B642;
 }
