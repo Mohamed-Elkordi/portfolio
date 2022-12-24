@@ -128,7 +128,7 @@ header .navigation li:hover {
     background-position: center;
     background-attachment: fixed;
 }
-@media (max-width: 360px) {
+@media (max-width: 480px) {
     .main {
      background-size: 100% 100%;
      }
